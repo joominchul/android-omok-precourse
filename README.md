@@ -31,3 +31,6 @@
 - 오목판 아래에 보드 초기화 버튼 설치
 - 초기화 버튼 아래에 승리 기록 표시
   - 일시적 데이터
+ 
+# 앱 실행 화면
+<img src="https://github.com/joominchul/android-omok-precourse/blob/jmc0820/%EC%8B%A4%ED%96%89%20%ED%99%94%EB%A9%B4.png?raw=true"/>
